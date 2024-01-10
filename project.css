@@ -1,0 +1,16 @@
+.photo {
+    width: 18.82%;
+    height: 12.9%;
+    margin-top: 8.45%;
+    margin-left: 40.6%;
+}
+.searchbox {
+    width: 40.5%;
+    margin-left: 29.7%;
+    border-radius: 10px;
+}
+.form-control {
+    border-radius: 100px;
+    height: 6.8%;
+    margin-top: -6px;
+}
