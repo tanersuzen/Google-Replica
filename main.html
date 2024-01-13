@@ -11,14 +11,13 @@
 <body>
     <img src="https://www.google.com.tr/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Logo" class="photo">
     <br><br>
-    <div class="searchbox">
-        <label for="exampleInputEmail1" class="form-label"></label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-        <div id="emailHelp" class="form-text"></div>
+    <div>
+        <form action="https://google.com.tr/search">
+            <input type="text" name="q" id="searchbox">
+            <br>
+            <input type="submit" value="Google'da Ara" id="searchbutton">
+            <input type="submit" name="btnI" value="Kendimi Şanslı Hissediyorum" id="luckbutton">
+        </form>
       </div>
-    <center>
-        <button id="searchbutton" type="button" class="btn btn-light">Google'da Ara</button>
-        <button id="luckbutton" type="button" class="btn btn-light">Kendimi Şanslı Hissediyorum</button>
-    </center>
 </body>
 </html>
