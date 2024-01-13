@@ -14,3 +14,43 @@
     height: 6.8%;
     margin-top: -6px;
 }
+#searchbutton {
+    min-width: 54px;
+    line-height: 27px;
+    height: 36px;   
+    color: #3c4043;
+    border: 1px solid #f8f9fa;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    border-radius: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    margin-right: 4px;
+    cursor: pointer;
+    user-select: none;
+    text-align: center;
+    box-sizing: border-box;,
+    display: inline-block;
+}
+
+#luckbutton {
+    ackground-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;  
+}
